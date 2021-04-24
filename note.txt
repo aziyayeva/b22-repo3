@@ -24,6 +24,8 @@ We do not have to push commit at a time.
 You can push multiple commits in one shot
 There is no limit
 
+Every commit with Gray up Arrow in the history means it has not been pushed yet.
+
 
 
 
